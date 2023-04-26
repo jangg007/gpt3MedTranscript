@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 
 @st.cache_resource
